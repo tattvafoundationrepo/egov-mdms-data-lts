@@ -1,296 +1,28 @@
 {
-    "tenantId": "pg",
-    "moduleName": "tenant",
-    "citymodule": [
-        {
-            "module": "Works",
-            "code": "Works",
-            "active": true,
-            "order": 1,
-            "tenants": [
-                {
-                    "code": "pg.cityb"
-                },
-                {
-                    "code": "pg.cityc"
-                },
-                {
-                    "code": "pg.citya"
-                }
-            ]
-        },
-        {
-            "module": "AttendenceMgmt",
-            "code": "AttendenceMgmt",
-            "active": true,
-            "order": 4,
-            "tenants": [
-                {
-                    "code": "pg.cityb"
-                },
-                {
-                    "code": "pg.cityc"
-                },
-                {
-                    "code": "pg.citya"
-                }
-            ]
-        },
-        {
-            "module": "Contracts",
-            "code": "Contracts",
-            "active": true,
-            "order": 5,
-            "tenants": [
-                {
-                    "code": "pg.cityb"
-                },
-                {
-                    "code": "pg.cityc"
-                },
-                {
-                    "code": "pg.citya"
-                }
-            ]
-        },
-        {
-            "module": "Expenditure",
-            "code": "Expenditure",
-            "active": true,
-            "order": 7,
-            "tenants": [
-                {
-                    "code": "pg.cityb"
-                },
-                {
-                    "code": "pg.cityc"
-                },
-                {
-                    "code": "pg.citya"
-                }
-            ]
-        },
-        {
-            "module": "Estimate",
-            "code": "Estimate",
-            "active": true,
-            "order": 3,
-            "tenants": [
-                {
-                    "code": "pg.cityb"
-                },
-                {
-                    "code": "pg.cityc"
-                },
-                {
-                    "code": "pg.citya"
-                }
-            ]
-        },
-        {
-            "module": "Masters",
-            "code": "Masters",
-            "active": true,
-            "order": 6,
-            "tenants": [
-                {
-                    "code": "pg.cityb"
-                },
-                {
-                    "code": "pg.cityc"
-                },
-                {
-                    "code": "pg.citya"
-                }
-            ]
-        },
-        {
-            "module": "Project",
-            "code": "Project",
-            "active": true,
-            "order": 8,
-            "tenants": [
-                {
-                    "code": "pg.cityb"
-                },
-                {
-                    "code": "pg.cityc"
-                },
-                {
-                    "code": "pg.citya"
-                }
-            ]
-        },
-         {
-            "module": "Mukta",
-            "code": "Mukta",
-            "active": true,
-            "order": 9,
-            "tenants": [
-                {
-                    "code": "pg.cityb"
-                },
-                {
-                    "code": "pg.cityc"
-                },
-                {
-                    "code": "pg.citya"
-                }
-            ]
-        },
-        {
-           "module": "Utilities",
-           "code": "Utilities",
-           "active": true,
-           "order": 11,
-           "tenants": [
-               {
-                   "code": "pg.cityb"
-               },
-               {
-                   "code": "pg.cityc"
-               },
-               {
-                   "code": "pg.citya"
-               }
-           ]
-       },
-        {
-        "module": "Workbench",
-        "code": "Workbench",
-        "active": true,
-        "order": 13,
-        "tenants": [
-            {
-                "code": "pg.cityb"
-            },
-            {
-                "code": "pg.cityc"
-            },
-            {
-                "code": "pg.citya"
-            }
-        ]
-    },{
-        "module": "Measurement",
-        "code": "Measurement",
-        "active": true,
-        "order": 13,
-        "tenants": [
-            {
-                "code": "pg.cityb"
-            },
-            {
-                "code": "pg.cityc"
-            },
-            {
-                "code": "pg.citya"
-            }
-        ]
-    },
-        {
-           "module": "Sample",
-           "code": "Sample",
-           "active": true,
-           "order": 12,
-           "tenants": [
-               {
-                   "code": "pg.cityb"
-               },
-               {
-                   "code": "pg.cityc"
-               },
-               {
-                   "code": "pg.citya"
-               }
-           ]
-       },
-       {
-        "module": "Tqm",
-        "code": "Tqm",
-        "active": true,
-        "order": 14,
-        "additionalComponent": "TqmAdminNotification",
-        "tenants": [
-            {
-                "code": "pg.cityb"
-            },
-            {
-                "code": "pg.cityc"
-            },
-            {
-                "code": "pg.citya"
-            }
-        ]
-      },
-    {
-       "module": "Campaign",
-       "code": "Campaign",
-       "active": true,
-       "order": 14,
-       "tenants": [
-            {
-                "code": "pg.cityb"
-            },
-            {
-                "code": "pg.cityc"
-            },
-            {
-                "code": "pg.citya"
-            }
-      ]
-    },
-    {
-        "module": "RateAnalysis",
-        "code": "RateAnalysis",
-        "active": true,
-        "order": 15,
-        "tenants": [
-            {
-                "code": "pg.cityb"
-            },
-            {
-                "code": "pg.cityc"
-            },
-            {
-                "code": "pg.citya"
-            }
-        ]
-    },
+  "tenantId": "pg",
+  "moduleName": "tenant",
+  "citymodule": [
     {
       "module": "PGR",
       "code": "PGR",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "bannerImage": "https://gambia-terraform.s3.ap-south-1.amazonaws.com/Gambia+Images+Final+/Complain_1+%281%29.jpeg",
       "active": true,
       "order":2,
       "tenants": [
         {
           "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
-
       ]
     },
     {
       "module": "PT",
       "code": "PT",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "bannerImage": "https://gambia-terraform.s3.ap-south-1.amazonaws.com/Gambia+Images+Final+/Property+Tax_Gambia+%281%29+%281%29.jpeg",
       "active": true,
       "order":1,
       "tenants": [
         {
           "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -302,12 +34,6 @@
       "tenants": [
         {
           "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -325,31 +51,31 @@
         },
         {
           "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
     {
       "module": "TL",
       "code": "TL",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
+      "bannerImage": "https://gambia-terraform.s3.ap-south-1.amazonaws.com/Gambia+Images+Final+/TL+Banner+Image.jpeg",
       "active": true,
       "order":2,
       "tenants": [
         {
           "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
     {
-      "module": "Firenoc",
-      "code": "Firenoc",
-      "active": true,
+      "module": "FIRENOC",
+      "code": "FIRENOC",
+      "active": false,
       "order":2,
       "tenants": [
         {
@@ -360,6 +86,12 @@
         },
         {
           "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -377,6 +109,12 @@
         },
         {
           "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -384,7 +122,7 @@
       "module": "BPAREG",
       "code": "BPAREG",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
-      "active": true,
+      "active": false,
       "order":2,
       "tenants": [
         {
@@ -395,6 +133,12 @@
         },
         {
           "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -402,7 +146,7 @@
       "module": "BPAAPPLY",
       "code": "BPAAPPLY",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
-      "active": true,
+      "active": false,
       "order":2,
       "tenants": [
         {
@@ -413,13 +157,19 @@
         },
         {
           "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
     {
       "module": "PGR.WHATSAPP",
       "code": "PGR.WHATSAPP",
-      "active": false,
+      "active": true,
       "order":4,
       "tenants": [
         {
@@ -431,7 +181,7 @@
       "module": "OBPS",
       "code": "OBPS",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
-      "active": true,
+      "active": false,
       "order":2,
       "tenants": [
         {
@@ -442,6 +192,12 @@
         },
         {
           "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -449,7 +205,7 @@
       "module": "FSM",
       "code": "FSM",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/FSM.png",
-      "active": true,
+      "active": false,
       "order":2,
       "tenants": [
         {
@@ -460,6 +216,12 @@
         },
         {
           "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         },
 	{
           "code": "pg.balasore"
@@ -474,12 +236,6 @@
       "tenants": [
         {
           "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -491,19 +247,13 @@
       "tenants": [
         {
           "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
     {
       "module": "NOC",
       "code": "NOC",
-      "active": true,
+      "active": false,
       "order":2,
       "tenants": [
         {
@@ -514,13 +264,30 @@
         },
         {
           "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order":6,
+      "tenants": [
+        {
+          "code": "pg.citya"
         }
       ]
     },
     {
       "module": "Engagement",
       "code": "Engagement",
-      "active": true,
+      "active": false,
       "order":3,
       "tenants": [
         {
@@ -531,6 +298,12 @@
         },
         {
           "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -542,12 +315,6 @@
       "tenants": [
         {
           "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
@@ -559,36 +326,24 @@
       "tenants": [
         {
           "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
     {
       "module": "CommonPT",
       "code": "CommonPT",
-      "active": true,
+      "active": false,
       "order":3,
       "tenants": [
         {
           "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
       ]
     },
     {
       "module": "NDSS",
       "code": "NDSS",
-      "active": true,
+      "active": false,
       "order":5,
       "tenants": [
         {
@@ -599,6 +354,12 @@
         },
         {
           "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -606,7 +367,7 @@
       "module": "WS",
       "code": "WS",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/WS.png",
-      "active": true,
+      "active": false,
       "order": 1,
       "tenants": [
         {
@@ -623,7 +384,7 @@
     {
       "module": "SW",
       "code": "SW",
-      "active": true,
+      "active": false,
       "order": 1,
       "tenants": [
         {
@@ -640,7 +401,7 @@
     {
       "module": "BillAmendment",
       "code": "BillAmendment",
-      "active": true,
+      "active": false,
       "order": 1,
       "tenants": [
         {
@@ -658,7 +419,7 @@
       "module": "Bills",
       "code": "Bills",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/Bill.png",
-      "active": true,
+      "active": false,
       "order": 3,
       "tenants": [
         {
@@ -671,59 +432,6 @@
           "code": "pg.cityc"
         }
       ]
-    },
-    {
-      "module": "Birth",
-      "code": "Birth",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
-      "active": true,
-      "order": 1,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        }
-      ]
-    },
-    {
-      "module": "Death",
-      "code": "Death",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
-      "active": true,
-      "order": 1,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        }
-      ]
-    },
-    {
-      "module": "DSS",
-      "code": "DSS",
-      "active": true,
-      "order":6,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        }
-      ]
     }
-    ]
+  ]
 }

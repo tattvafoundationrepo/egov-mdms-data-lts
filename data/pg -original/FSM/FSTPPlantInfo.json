@@ -1,0 +1,32 @@
+{
+    "tenantId": "pg",
+    "moduleName": "FSM",
+    "FSTPPlantInfo": [
+        {
+            "PlantCode": "AMR001",
+            "PlantName": "Amritsar FSTP",
+            "active": true,
+            "PlantType":"FSTP",
+            "PlantLocation":"Amritsar",
+            "latitude":"12.935230" ,
+            "longitude":"77.624540",
+            "PlusCode":"JQ2R+7G Khapar Kheri, Punjab",
+            "PlantOperationalTimings":"10.00am-08.00pm",
+            "PlantOperationalCapacityKLD":"50",
+            "ULBS":"pb.jalandhar,pb.amritsar,pb.nayagaon"
+        },
+        {
+            "PlantCode": "MOH002",
+            "PlantName": "Mohali SeTPP",
+            "active": true,
+            "PlantType":"SeTP",
+            "PlantLocation":"Mohali",
+            "latitude":"12.935230" ,
+            "longitude":"77.624540",
+            "PlusCode":"MPFQ+V2 Sahibzada Ajit Singh Nagar, Punjab",
+            "PlantOperationalTimings":"10.00am-06.00pm",
+            "PlantOperationalCapacityKLD":"100",
+            "ULBS":"pb.mohali,pb.phagwara,pb.nawanshahr,pb.derabassi"
+        }
+    ]
+}

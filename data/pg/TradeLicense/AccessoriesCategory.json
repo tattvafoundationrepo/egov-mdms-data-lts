@@ -3,28 +3,28 @@
   "moduleName": "TradeLicense",
   "AccessoriesCategory": [
     {
-      "code": "ACC-1",
-      "uom": "HP",
+      "code": "ACC_1",
+      "uom": "GROSSUNITS",
       "active": true
     },
     {
       "code": "ACC-2",
-      "uom": "HP",
+      "uom": "GROSSUNITS",
       "active": true
     },
     {
       "code": "ACC-3",
-      "uom": "HP",
+      "uom": "GROSSUNITS",
       "active": true
     },
     {
       "code": "ACC-4",
-      "uom": null,
+      "uom":  "GROSSUNITS",
       "active": true
     },
     {
       "code": "ACC-5",
-      "uom": null,
+      "uom":  "GROSSUNITS",
       "active": true
     }
   ]

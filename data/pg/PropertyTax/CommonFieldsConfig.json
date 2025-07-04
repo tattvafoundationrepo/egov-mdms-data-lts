@@ -1,3 +1,6 @@
+
+
+
 {
     "tenantId": "pg",
     "moduleName": "PropertyTax",
@@ -369,7 +372,7 @@
                     },
                     "key": "units",
                     "withoutLabel": true,
-                    "nextStep": "map",
+                    "nextStep": "pincode",
                     "hideInEmployee": true
                 }
             ]
@@ -555,3 +558,5 @@
         }
     ]
 }
+
+

@@ -1,0 +1,10 @@
+{
+  "tenantId": "pg.citya",
+  "moduleName": "segment-codes",
+  "GeographicSegmentCodes": [
+    {
+      "id": "002135235201",
+      "code": "OD-DHEN-CTK",
+      "name": "Cuttack"
+    }]
+}
